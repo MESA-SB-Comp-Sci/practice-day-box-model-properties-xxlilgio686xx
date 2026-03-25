@@ -4,3 +4,70 @@
 
 /* write rules below */
 
+/* Level 1 */
+.padded {
+    padding: 20px;
+}
+
+.spaced {
+    margin: 20px;
+}
+
+.has-border {
+    border: 3px solid black;
+}
+
+.fixed-width {
+    width: 300px;
+}
+
+#hero-box {
+    height: 200px;
+    padding: 40px;
+    border: 5px solid navy;
+}
+
+/* Level 2 */
+.img-box {
+    border: 2px solid gray;
+    margin: 10px;
+}
+
+.content-block {
+    width: 600px;
+    padding: 20px;
+}
+
+.section-gap {
+    margin: 30px 0;
+}
+
+.framed-box {
+    border: 2px solid black;
+    padding: 15px;
+    height: 150px;
+}
+
+#standout-section {
+    width: 400px;
+    padding: 25px;
+    margn: 20px; /* mistake 1: typo in property name */
+}
+
+/* Level 3 */
+.compact {
+    margin: 5px;
+    padding: 5px;
+}
+
+.wide {
+    width: 100%;
+    padding: 10px;
+}
+
+#special {
+    height: 100px;
+    border: 1px black solid; /* mistake 2: wrong order in border value */
+    margin: 10px;
+}
+

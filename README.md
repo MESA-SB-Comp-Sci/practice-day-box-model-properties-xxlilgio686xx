@@ -67,7 +67,7 @@ ID rules use a hashtag     →   #name { }
 - Value: `20px`
 - What it does: adds 20px of space inside the element on all four sides
 
-📖 [padding — W3Schools](https://www.w3schools.com/cssref/pr_padding.php)
+
 
 ---
 
